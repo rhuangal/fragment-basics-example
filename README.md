@@ -7,4 +7,4 @@ pueden ingresar al siguiente enlace el cual es el chat del proyecto:
 
 ## Listado de Ejemplos:
 
-*FCOM: Muestra el envio de un texto desde el "Fragment A" al "Fragment B".
+* FCOM: Muestra el envio de un texto desde el "Fragment A" al "Fragment B".
